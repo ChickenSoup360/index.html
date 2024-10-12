@@ -19,7 +19,7 @@
       </head>
 	<body> 
 		<h1> My Name is Felipe Enriquez Romero</h1>
-		<p> I am a 1st year college student learning about web development. I enjoy listening to music and playing video games. I aspire to get my college degree.
+		<p> I am a 1st year college student learning about web development. I enjoy listening to music and playing video games. I aspire to get my college degree.</p>
 
 
 </body>
