@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<html>
+      <head>
+      <title> My Personal Introduction </title>
+	<style>
+	body {
+		background-color: B8865A;
+	}
+
+	h1 {
+		color: 7D5034;
+	}
+
+	p {
+		color: 514B34;
+	}
+	</style>
+      </head>
+	<body> 
+		<h1> My Name is Felipe Enriquez Romero</h1>
+		<p> I am a 1st year college student learning about web development. I enjoy listening to music and playing video games. I aspire to get my college degree.
+
+
+</body>
+</html>
